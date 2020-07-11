@@ -18,6 +18,8 @@
 		1F2EA7162451E104004ACAA2 /* AddRowExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2EA7152451E104004ACAA2 /* AddRowExample.swift */; };
 		1F93C21A24B979D6005D21BB /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93C21924B979D6005D21BB /* AlertExample.swift */; };
 		1F93C21C24B97CB8005D21BB /* AlertButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93C21B24B97CB8005D21BB /* AlertButtonExample.swift */; };
+		1F93C21E24B97E56005D21BB /* AlertItemError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93C21D24B97E56005D21BB /* AlertItemError.swift */; };
+		1F93C22024B97F02005D21BB /* AlertItemExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93C21F24B97F02005D21BB /* AlertItemExample.swift */; };
 		1FF1A8592441B633001A4BDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A8582441B633001A4BDB /* AppDelegate.swift */; };
 		1FF1A85B2441B633001A4BDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A85A2441B633001A4BDB /* SceneDelegate.swift */; };
 		1FF1A85D2441B633001A4BDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A85C2441B633001A4BDB /* ContentView.swift */; };
@@ -64,6 +66,8 @@
 		1F2EA7152451E104004ACAA2 /* AddRowExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRowExample.swift; sourceTree = "<group>"; };
 		1F93C21924B979D6005D21BB /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		1F93C21B24B97CB8005D21BB /* AlertButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertButtonExample.swift; sourceTree = "<group>"; };
+		1F93C21D24B97E56005D21BB /* AlertItemError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertItemError.swift; sourceTree = "<group>"; };
+		1F93C21F24B97F02005D21BB /* AlertItemExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertItemExample.swift; sourceTree = "<group>"; };
 		1FF1A8552441B633001A4BDB /* TodoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF1A8582441B633001A4BDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FF1A85A2441B633001A4BDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -160,6 +164,8 @@
 				1FF224FB2477AC2600182E86 /* TabViewExample.swift */,
 				1F93C21924B979D6005D21BB /* AlertExample.swift */,
 				1F93C21B24B97CB8005D21BB /* AlertButtonExample.swift */,
+				1F93C21D24B97E56005D21BB /* AlertItemError.swift */,
+				1F93C21F24B97F02005D21BB /* AlertItemExample.swift */,
 			);
 			path = TodoApp;
 			sourceTree = "<group>";
@@ -335,6 +341,7 @@
 				1F2EA7102451D255004ACAA2 /* StaticListExample3.swift in Sources */,
 				1FF224FC2477AC2600182E86 /* TabViewExample.swift in Sources */,
 				1F2EA70E2451D128004ACAA2 /* RestaurantView.swift in Sources */,
+				1F93C21E24B97E56005D21BB /* AlertItemError.swift in Sources */,
 				1F0CEAF52450884800C60F9D /* TapButtonExample.swift in Sources */,
 				1FF224F42476C0B300182E86 /* SheetListExample.swift in Sources */,
 				1F2EA70C2451CF80004ACAA2 /* StaticListExample.swift in Sources */,
@@ -342,6 +349,7 @@
 				1FF224F62476CEA200182E86 /* SheetCloseExample.swift in Sources */,
 				1FF1A85D2441B633001A4BDB /* ContentView.swift in Sources */,
 				1F2EA7162451E104004ACAA2 /* AddRowExample.swift in Sources */,
+				1F93C22024B97F02005D21BB /* AlertItemExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
