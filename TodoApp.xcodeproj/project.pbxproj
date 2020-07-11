@@ -16,6 +16,7 @@
 		1F2EA7122451D3B1004ACAA2 /* DynamicListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2EA7112451D3B1004ACAA2 /* DynamicListExample.swift */; };
 		1F2EA7142451D8C9004ACAA2 /* DynamicListExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2EA7132451D8C9004ACAA2 /* DynamicListExample2.swift */; };
 		1F2EA7162451E104004ACAA2 /* AddRowExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2EA7152451E104004ACAA2 /* AddRowExample.swift */; };
+		1F93C21A24B979D6005D21BB /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F93C21924B979D6005D21BB /* AlertExample.swift */; };
 		1FF1A8592441B633001A4BDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A8582441B633001A4BDB /* AppDelegate.swift */; };
 		1FF1A85B2441B633001A4BDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A85A2441B633001A4BDB /* SceneDelegate.swift */; };
 		1FF1A85D2441B633001A4BDB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF1A85C2441B633001A4BDB /* ContentView.swift */; };
@@ -60,6 +61,7 @@
 		1F2EA7112451D3B1004ACAA2 /* DynamicListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicListExample.swift; sourceTree = "<group>"; };
 		1F2EA7132451D8C9004ACAA2 /* DynamicListExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicListExample2.swift; sourceTree = "<group>"; };
 		1F2EA7152451E104004ACAA2 /* AddRowExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRowExample.swift; sourceTree = "<group>"; };
+		1F93C21924B979D6005D21BB /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		1FF1A8552441B633001A4BDB /* TodoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FF1A8582441B633001A4BDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FF1A85A2441B633001A4BDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				1FF224F72476D2EE00182E86 /* TabExample.swift */,
 				1FF224F92476D3DE00182E86 /* Content.swift */,
 				1FF224FB2477AC2600182E86 /* TabViewExample.swift */,
+				1F93C21924B979D6005D21BB /* AlertExample.swift */,
 			);
 			path = TodoApp;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				1F2EA7142451D8C9004ACAA2 /* DynamicListExample2.swift in Sources */,
 				1FF224F02476B85900182E86 /* FormExampleView.swift in Sources */,
 				1FF1A85B2441B633001A4BDB /* SceneDelegate.swift in Sources */,
+				1F93C21A24B979D6005D21BB /* AlertExample.swift in Sources */,
 				1F2EA7102451D255004ACAA2 /* StaticListExample3.swift in Sources */,
 				1FF224FC2477AC2600182E86 /* TabViewExample.swift in Sources */,
 				1F2EA70E2451D128004ACAA2 /* RestaurantView.swift in Sources */,
